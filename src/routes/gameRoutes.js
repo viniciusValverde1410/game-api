@@ -8,10 +8,10 @@ const router = express.Router();
 router.get('/', gameControllers.getWelcomeMessage);
 
 // Definindo as rotas para listagem de todos os Jogos
-router.get('/lista-jogod', gameControllers.getAllGames);
+router.get('/listar-jogos', gameControllers.getAllGames);
 
 // Definindo as rotas para listagem de um Jogo por id
-router.get('/:id', gameControllers.getGameById);
+router.get('/listar-jogos/:id', gameControllers.getGameById);
 
 //criação de um novo Joog
 router.post('/', gameControllers.createGame);

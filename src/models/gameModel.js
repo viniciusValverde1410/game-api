@@ -18,13 +18,13 @@ class GameModel {
         return this.games.find(game => game.id === id);
     }
 
-    static create(title, author) {
+    static create(title, console) {
         const newGame = { id: this.games.length + 1, title, console };
         this.games.push(newGame);
         return newGame;
     }
 
-    static update(id, title, author) {
+    static update(id, title, console) {
         const gameIndex = this.games.findIndex(game => game.id === id);
         if (gameIndex === -1) {
             return null;
