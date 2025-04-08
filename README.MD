@@ -1,6 +1,6 @@
 # API de Jogos 🎮
 
-Este é um projeto de uma API RESTful desenvolvida em Node.js utilizando o framework Express. O objetivo da API é gerenciar informações sobre jogos, permitindo operações de CRUD (Create, Read, Update, Delete).
+Este é um projeto de uma API desenvolvida em Node.js utilizando o framework Express. O objetivo da API é gerenciar informações sobre jogos, permitindo operações de CRUD (Create, Read, Update, Delete).
 
 ## Funcionalidades
 
