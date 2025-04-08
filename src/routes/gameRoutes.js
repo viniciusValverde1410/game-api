@@ -13,7 +13,7 @@ router.get('/listarJogos', gameControllers.getAllGames);
 // Definindo as rotas para listagem de um Jogo por id
 router.get('/listarJogos/:id', gameControllers.getGameById);
 
-//criação de um novo Joog
+//criação de um novo Jogo
 router.post('/', gameControllers.createGame);
 
 //atualização de um Jogo
