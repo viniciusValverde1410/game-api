@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "title": "Halo Infinite",
+      "console": "Xbox Series X"
+    },
+    {
+      "id": "2",
+      "title": "The Last of Us",
+      "console": "PlayStation 4"
+    },
+    {
+      "id": "3",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "console": "Nintendo Switch"
+    },
+    {
+      "id": "4",
+      "title": "Cyberpunk 2077",
+      "console": "PlayStation 5"
+    },
+    {
+      "id": "5",
+      "title": "God of War Ragnarok",
+      "console": "PlayStation 5"
+    },
+    {
+      "id": "6",
+      "title": "Forza Horizon 5",
+      "console": "Xbox Series X"
+    }
+]
